@@ -1,0 +1,147 @@
+/* =========================================
+   ГЛОБАЛЬНЫЕ СТИЛИ И ЦВЕТА (ДАРК-МОД)
+   ========================================= */
+.root {
+    -fx-base: #2D3436;              /* Основной фон окна */
+    -fx-control-inner-background: #1E272E; /* Фон текстовых полей и списков */
+    -fx-background-color: #2D3436;
+    -fx-font-family: "Segoe UI", Arial, sans-serif;
+    -fx-font-size: 14px;
+}
+
+/* =========================================
+   ЗАГОЛОВКИ И ЛЕЙБЛЫ
+   ========================================= */
+.label {
+    -fx-text-fill: #DFE6E9;         /* Цвет текста лейблов */
+}
+
+/* Тот самый заголовок "Интерстеллар" или "Список фильмов" */
+.title-label {
+    -fx-font-size: 32px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #FAB1A0;         /* Акцентный цвет (лососевый) */
+    -fx-padding: 0 0 15 0;
+}
+
+/* Суб-заголовок (например, "Список фильмов" над ListView) */
+.sub-title {
+    -fx-font-size: 18px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #DFE6E9;
+    -fx-padding: 10 0 5 0;
+}
+
+/* =========================================
+   СПИСОК ФИЛЬМОВ (ListView)
+   ========================================= */
+.list-view {
+    -fx-background-radius: 8;
+    -fx-border-color: #535C68;
+    -fx-border-radius: 8;
+    -fx-border-width: 1;
+}
+
+.list-cell {
+    -fx-padding: 10;
+    -fx-text-fill: #DFE6E9;
+    -fx-background-color: #1E272E;
+}
+
+/* Чередующиеся строки (для зебры) */
+.list-cell:odd {
+    -fx-background-color: #1A2228;
+}
+
+/* При наведении */
+.list-cell:hover {
+    -fx-background-color: #535C68;
+}
+
+/* Выбранный элемент */
+.list-cell:selected {
+    -fx-background-color: #FAB1A0; /* Акцентный цвет */
+    -fx-text-fill: #2D3436;         /* Темный текст на светлом фоне */
+    -fx-font-weight: bold;
+}
+
+/* Убираем белые границы при фокусе */
+.list-view:focused {
+    -fx-border-color: #535C68;
+}
+
+/* =========================================
+   ПАНЕЛЬ ВКЛАДОК (TabPane)
+   ========================================= */
+.tab-pane .tab-header-area .tab-header-background {
+    -fx-background-color: #2D3436;
+}
+
+.tab {
+    -fx-background-color: #535C68;  /* Фон неактивной вкладки */
+    -fx-background-radius: 5 5 0 0;
+    -fx-padding: 8 20;
+}
+
+.tab:selected {
+    -fx-background-color: #FAB1A0;  /* Акцентный цвет выбранной вкладки */
+}
+
+.tab .tab-label {
+    -fx-text-fill: #DFE6E9;         /* Текст на неактивной вкладке */
+}
+
+.tab:selected .tab-label {
+    -fx-text-fill: #2D3436;         /* Темный текст на выбранной */
+    -fx-font-weight: bold;
+}
+
+/* Фон контента внутри вкладок */
+.tab-content-area {
+    -fx-background-color: #1E272E;
+    -fx-padding: 15;
+    -fx-background-radius: 0 0 8 8;
+}
+
+/* =========================================
+   ТEKCTОВЫЕ ПОЛЯ (TextArea, TextField)
+   ========================================= */
+.text-input {
+    -fx-background-radius: 5;
+    -fx-border-color: #535C68;
+    -fx-border-radius: 5;
+    -fx-text-fill: #DFE6E9;
+}
+
+.text-input:focused {
+    -fx-border-color: #FAB1A0;      /* Граница при фокусе под цвет вкладок */
+}
+
+/* Тот самый отзыв "[5/10] -- dvdvdvd" */
+.review-text {
+    -fx-font-family: "Consolas", "Monospace"; /* Моноширинный шрифт для отзывов */
+    -fx-font-size: 13px;
+    -fx-text-fill: #DFE6E9;
+}
+
+/* =========================================
+   КНОПКИ И СЛАЙДЕРЫ
+   ========================================= */
+.button {
+    -fx-background-color: #FAB1A0;  /* Кнопки как вкладки */
+    -fx-text-fill: #2D3436;
+    -fx-font-weight: bold;
+    -fx-background-radius: 5;
+    -fx-cursor: hand;
+}
+
+.button:hover {
+    -fx-background-color: #E17055;  /* Темнее при наведении */
+}
+
+.slider .thumb {
+    -fx-background-color: #FAB1A0;
+}
+.slider .track {
+    -fx-background-color: #535C68;
+}

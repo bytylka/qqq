@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="media:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f5c796c-797f-4d06-9c89-fd6d8688da56" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/media_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency-reduced-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/kyrcah/CurrentUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/kyrcah/DatabaseConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/kyrcah/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/kyrcah/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/kyrcah/KyrcahApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/kyrcah/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/kyrcah/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/kyrcah/PasswordHasher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/kyrcah/ProfileController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/kyrcah/RegisterController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/kyrcah/Review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/kyrcah/Starter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/kyrcah/.vs/VSWorkspaceState.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/kyrcah/.vs/kyrcah/FileContentIndex/657f49a8-475c-48fd-9a1c-9cdf1dfe12c6.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/kyrcah/.vs/kyrcah/v17/.wsuo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/kyrcah/.vs/kyrcah/v17/DocumentLayout.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/kyrcah/.vs/slnx.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/kyrcah/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/kyrcah/login-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/kyrcah/register-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/kyrcah/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/profile-view.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3AM2Md6477ocNa8LLpVClzwc9AB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.HelloApplication.executor": "Run",
+    "Application.Starter.executor": "Run",
+    "JUnit.KyrcahApplicationTests (1).executor": "Run",
+    "JUnit.KyrcahApplicationTests (2).executor": "Run",
+    "JUnit.KyrcahApplicationTests.executor": "Run",
+    "Maven.media [clean].executor": "Run",
+    "Maven.media [install].executor": "Run",
+    "Maven.media [org.apache.maven.plugins:maven-clean-plugin:2.5:clean].executor": "Run",
+    "Maven.media [org.apache.maven.plugins:maven-install-plugin:2.4:install].executor": "Run",
+    "Maven.media [org.panteleyev:jpackage-maven-plugin:1.6.0:jpackage].executor": "Run",
+    "Maven.media [package].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/teron/IdeaProjects/kyrcah",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="KyrcahApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="media" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.kyrcah.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.kyrcah" />
+      <option name="MAIN_CLASS_NAME" value="org.example.kyrcah.KyrcahApplicationTests" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="--add-exports org.junit.platform.commons/org.junit.platform.commons.util=ALL-UNNAMED --add-opens org.junit.platform.commons/org.junit.platform.commons.logging=ALL-UNNAMED --add-opens org.example.kyrcah/org.example.kyrcah=ALL-UNNAMED" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KyrcahApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="media" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.kyrcah.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.kyrcah" />
+      <option name="MAIN_CLASS_NAME" value="org.example.kyrcah.KyrcahApplicationTests" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="--add-opens org.junit.p$MODULE_WORKING_DIR$latform.commons/org.junit.platform.commons.logging=ALL-UNNAMED --add-opens org.junit.platform.commons/org.junit.platform.commons.util=ALL-UNNAMED --add-opens org.junit.platform.engine/org.junit.platform.engine=ALL-UNNAMED --add-opens org.junit.platform.launcher/org.junit.platform.launcher.core=ALL-UNNAMED --add-opens org.junit.jupiter.api/org.junit.jupiter.api=ALL-UNNAMED" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.KyrcahApplicationTests (2)" />
+        <item itemvalue="JUnit.KyrcahApplicationTests" />
+        <item itemvalue="JUnit.KyrcahApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f5c796c-797f-4d06-9c89-fd6d8688da56" name="Changes" comment="" />
+      <created>1772388073756</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772388073756</updated>
+    </task>
+    <servers />
+  </component>
+</project>
